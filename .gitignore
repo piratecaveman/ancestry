@@ -1,0 +1,4 @@
+testing.py
+venv/
+**__pycache__/
+**.idea/
